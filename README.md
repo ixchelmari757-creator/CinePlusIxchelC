@@ -32,4 +32,4 @@ Ventana Resumen de Compra y Cobro(Ticket)
 --Esta ventana debe incluir un desglose de compra:
 sección "Taquilla" con los boletos comprados y su subtotal.
 sección "Dulcería" con los combos y productos individuales, y su subtotal.
---Finalmente, el sistema debe de mostrar el costo total de toda la compra (taquilla + dulcería).
+--Finalmente, el sistema debe de mostrar el costo total de toda la compra (taquilla + dulcería). 
